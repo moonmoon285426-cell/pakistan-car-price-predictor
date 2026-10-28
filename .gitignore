@@ -1,0 +1,13 @@
+# Python virtual environment
+.venv/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Private settings and secrets
+.env
+.streamlit/secrets.toml
+
+# Large training dataset
+pakistan_cars_combined.csv
